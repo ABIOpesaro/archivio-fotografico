@@ -3,7 +3,7 @@
     <title>ABIO Pesaro</title>
     <link href="https://ABIOpesaro.github.io/archivio-fotografico/feed.xml" rel="self" />
     <link href="https://ABIOpesaro.github.io/archivio-fotografico" />
-    <updated>2021-10-09T23:01:20+02:00</updated>
+    <updated>2021-10-09T23:51:39+02:00</updated>
     <author>
         <name>ABIO Pesaro</name>
     </author>
@@ -18,44 +18,38 @@
         <id>https://ABIOpesaro.github.io/archivio-fotografico/gallery/</id>
             <category term="Foto"/>
 
-        <updated>2021-10-09T23:01:20+02:00</updated>
+        <updated>2021-10-09T23:51:39+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/01_galleria_fotografica.png" alt="galleria fotografica" />
-                     Sample Image description Sample Image description Sample Image description Sample Image description Sample Image description Sample Image description Sample&hellip;
+                     
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/01_galleria_fotografica.png" alt="galleria fotografica" />
                 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/015.png" data-size="2048x1536"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/015-thumbnail.png" alt="Sample Alt" width="768" height="576"></a>
-<figcaption>Sample Image description</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/a.jpg" data-size="3000x2061"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/a-thumbnail.jpg" alt="Sample Alt" width="768" height="528"></a>
-<figcaption>Sample Image description</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/1-13.jpg" data-size="801x534"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/1-13-thumbnail.jpg" alt="Sample Alt" width="768" height="512"></a>
-<figcaption>Sample Image description</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/5c02a220b1366f33d883bba9_001.jpg" data-size="2000x1500"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/5c02a220b1366f33d883bba9_001-thumbnail.jpg" alt="Sample Alt" width="768" height="576"></a>
-<figcaption>Sample Image description</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/3_1.png" data-size="2048x1536"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/3_1-thumbnail.png" alt="Sample Alt" width="768" height="576"></a>
-<figcaption>Sample Image description</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/mcgill-library-2g_9AOd1k4M-unsplash.jpg" data-size="8928x6796"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/mcgill-library-2g_9AOd1k4M-unsplash-thumbnail.jpg" alt="Sample Alt" width="768" height="585"></a>
-<figcaption>Sample Image description</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/036-p-2000.png" data-size="2000x1500"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/036-p-2000-thumbnail.png" alt="Sample Alt" width="768" height="576"></a>
-<figcaption>Sample Image description</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/977d5216190081.562ab7a8434c9.jpg" data-size="2800x3970"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/977d5216190081.562ab7a8434c9-thumbnail.jpg" alt="Sample Alt" width="768" height="1089"></a>
-<figcaption>Sample Image description</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/icons-bakery.png" data-size="2800x2220"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/icons-bakery-thumbnail.png" alt="Sample Alt" width="768" height="609"></a>
-<figcaption>Sample Image description</figcaption>
-</figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/1giorn-abio-9-copia-thumbnail-2.jpg" data-size="449x600"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/1giorn-abio-9-copia-thumbnail-2-thumbnail.jpg" alt="" width="449" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/7giornatanazionale10-copia-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/7giornatanazionale10-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/7giornatanazionale14-copia-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/7giornatanazionale14-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/2007-gennaio-12-copia-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/2007-gennaio-12-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/2007-gennaio-62-copia-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/2007-gennaio-62-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/2011-07-22-20-32-39-copia-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/2011-07-22-20-32-39-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/2011-07-22-22-58-46-copia-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/2011-07-22-22-58-46-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/2011-07-22-22-59-49-copia-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/2011-07-22-22-59-49-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/abio-gruppo-11-copia-thumbnail-2.jpg" data-size="768x575"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/abio-gruppo-11-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/cimg0004-copia-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/cimg0004-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/corridoio-copia-thumbnail-2.jpg" data-size="768x512"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/corridoio-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/dicem-2007-4-copia-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/dicem-2007-4-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/img_8805-copia-thumbnail-2.jpg" data-size="768x512"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/img_8805-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/img_8807-copia-thumbnail-2.jpg" data-size="400x600"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/img_8807-copia-thumbnail-2-thumbnail.jpg" alt="" width="400" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/img_8913-copia-thumbnail-2.jpg" data-size="768x512"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/img_8913-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/immagine132-copia-thumbnail-2.jpg" data-size="768x580"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/immagine132-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="580"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/immagine157-thumbnail-2.jpg" data-size="768x522"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/immagine157-thumbnail-2-thumbnail.jpg" alt="" width="768" height="522"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/p1010010-copia-thumbnail-2.jpg" data-size="768x575"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/p1010010-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/p1010061-copia-thumbnail-2.jpg" data-size="768x575"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/p1010061-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/postazione-abio-copia-thumbnail-2.jpg" data-size="400x600"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/postazione-abio-copia-thumbnail-2-thumbnail.jpg" alt="" width="400" height="600"></a></figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/spettaco-51-copia-thumbnail-2.jpg" data-size="768x512"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/spettaco-51-copia-thumbnail-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
             ]]>
         </content>
