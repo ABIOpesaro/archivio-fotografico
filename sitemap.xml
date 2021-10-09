@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ABIOpesaro.github.io/archivio-fotografico/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ABIOpesaro.github.io/archivio-fotografico/</loc>
+</url>
+<url>
+<loc>https://ABIOpesaro.github.io/archivio-fotografico/apple-imac-mockups/</loc>
+<lastmod>2021-10-09T22:51:58+02:00</lastmod>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\87/02_giornate_nazionali.png</image:loc>
+<image:title><![CDATA[Apple iMac Mockups]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ABIOpesaro.github.io/archivio-fotografico/free-doubs-pattern/</loc>
+<lastmod>2021-10-09T22:53:20+02:00</lastmod>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\85/04_note_informative.png</image:loc>
+<image:title><![CDATA[Note Informative]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ABIOpesaro.github.io/archivio-fotografico/free-iphone-xr-mockup/</loc>
+<lastmod>2021-10-09T22:52:51+02:00</lastmod>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\86/03_eventi-e-progetti.png</image:loc>
+<image:title><![CDATA[Eventi e progetti]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ABIOpesaro.github.io/archivio-fotografico/gallery/</loc>
+<lastmod>2021-10-09T23:01:20+02:00</lastmod>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\89/01_galleria_fotografica.png</image:loc>
+<image:title><![CDATA[galleria fotografica]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\89/gallery/015-thumbnail.png</image:loc>
+<image:title><![CDATA[Sample Alt]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\89/gallery/a-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Sample Alt]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\89/gallery/1-13-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Sample Alt]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\89/gallery/5c02a220b1366f33d883bba9_001-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Sample Alt]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\89/gallery/3_1-thumbnail.png</image:loc>
+<image:title><![CDATA[Sample Alt]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\89/gallery/mcgill-library-2g_9AOd1k4M-unsplash-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Sample Alt]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\89/gallery/036-p-2000-thumbnail.png</image:loc>
+<image:title><![CDATA[Sample Alt]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\89/gallery/977d5216190081.562ab7a8434c9-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Sample Alt]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ABIOpesaro.github.io/archivio-fotografico/media\posts\89/gallery/icons-bakery-thumbnail.png</image:loc>
+<image:title><![CDATA[Sample Alt]]></image:title>
+</image:image>
+</url>
+</urlset>

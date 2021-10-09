@@ -1,87 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>ARCHIVIO</title>
-    <link href="https://abiopesaro.github.io/archivio-fotografico/feed.xml" rel="self" />
-    <link href="https://abiopesaro.github.io/archivio-fotografico" />
-    <updated>2021-10-08T20:48:09+02:00</updated>
+    <title>ABIO Pesaro</title>
+    <link href="https://ABIOpesaro.github.io/archivio-fotografico/feed.xml" rel="self" />
+    <link href="https://ABIOpesaro.github.io/archivio-fotografico" />
+    <updated>2021-10-09T23:01:20+02:00</updated>
     <author>
         <name>ABIO Pesaro</name>
     </author>
-    <id>https://abiopesaro.github.io/archivio-fotografico</id>
+    <id>https://ABIOpesaro.github.io/archivio-fotografico</id>
 
     <entry>
         <title>Galleria Fotografica</title>
         <author>
             <name>ABIO Pesaro</name>
         </author>
-        <link href="https://abiopesaro.github.io/archivio-fotografico/galleria-fotografica/"/>
-        <id>https://abiopesaro.github.io/archivio-fotografico/galleria-fotografica/</id>
+        <link href="https://ABIOpesaro.github.io/archivio-fotografico/gallery/"/>
+        <id>https://ABIOpesaro.github.io/archivio-fotografico/gallery/</id>
+            <category term="Foto"/>
 
-        <updated>2021-10-08T20:48:09+02:00</updated>
+        <updated>2021-10-09T23:01:20+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/PNG.png" alt="" />
-                    Rassegna fotografica in ordine sparso dal 2001 ad oggi 
+                        <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/01_galleria_fotografica.png" alt="galleria fotografica" />
+                     Sample Image description Sample Image description Sample Image description Sample Image description Sample Image description Sample Image description Sample&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/PNG.png" alt="" />
-                <p class="align-left"><strong>Rassegna fotografica in ordine sparso dal 2001 ad oggi </strong></p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/1giorn-abio-9-copia.jpg" data-size="449x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/1giorn-abio-9-copia-thumbnail.jpg" alt="" width="449" height="600"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/7giornatanazionale14-copia.jpg" data-size="800x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/7giornatanazionale14-copia-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/2007-gennaio-12-copia.jpg" data-size="800x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/2007-gennaio-12-copia-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/2007-gennaio-62-copia.jpg" data-size="800x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/2007-gennaio-62-copia-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/2011-07-22-20-32-39-copia.jpg" data-size="800x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/2011-07-22-20-32-39-copia-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/2011-07-22-22-58-46-copia.jpg" data-size="800x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/2011-07-22-22-58-46-copia-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/2011-07-22-22-59-49-copia.jpg" data-size="800x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/2011-07-22-22-59-49-copia-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/abio-gruppo-11-copia.jpg" data-size="800x599"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/abio-gruppo-11-copia-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/cimg0004-copia.jpg" data-size="800x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/cimg0004-copia-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/corridoio-copia.jpg" data-size="800x533"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/corridoio-copia-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/dicem-2007-4-copia.jpg" data-size="800x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/dicem-2007-4-copia-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/img_8805-copia.jpg" data-size="800x533"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/img_8805-copia-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/img_8807-copia.jpg" data-size="400x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/img_8807-copia-thumbnail.jpg" alt="" width="400" height="600"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/img_8913-copia.jpg" data-size="800x533"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/img_8913-copia-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/immagine132-copia.jpg" data-size="795x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/immagine132-copia-thumbnail.jpg" alt="" width="768" height="580"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/immagine157.jpg" data-size="1878x1276"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/immagine157-thumbnail.jpg" alt="" width="768" height="522"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/p1010010-copia.jpg" data-size="800x599"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/p1010010-copia-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/p1010061-copia.jpg" data-size="800x599"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/p1010061-copia-thumbnail.jpg" alt="" width="768" height="575"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/postazione-abio-copia.jpg" data-size="400x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/postazione-abio-copia-thumbnail.jpg" alt="" width="400" height="600"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/spettaco-51-copia.jpg" data-size="800x533"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/spettaco-51-copia-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/7giornatanazionale10-copia.jpg" data-size="800x600"><img loading="lazy" src="https://abiopesaro.github.io/archivio-fotografico/media/posts/40/gallery/7giornatanazionale10-copia-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+                    <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/01_galleria_fotografica.png" alt="galleria fotografica" />
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/015.png" data-size="2048x1536"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/015-thumbnail.png" alt="Sample Alt" width="768" height="576"></a>
+<figcaption>Sample Image description</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/a.jpg" data-size="3000x2061"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/a-thumbnail.jpg" alt="Sample Alt" width="768" height="528"></a>
+<figcaption>Sample Image description</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/1-13.jpg" data-size="801x534"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/1-13-thumbnail.jpg" alt="Sample Alt" width="768" height="512"></a>
+<figcaption>Sample Image description</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/5c02a220b1366f33d883bba9_001.jpg" data-size="2000x1500"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/5c02a220b1366f33d883bba9_001-thumbnail.jpg" alt="Sample Alt" width="768" height="576"></a>
+<figcaption>Sample Image description</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/3_1.png" data-size="2048x1536"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/3_1-thumbnail.png" alt="Sample Alt" width="768" height="576"></a>
+<figcaption>Sample Image description</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/mcgill-library-2g_9AOd1k4M-unsplash.jpg" data-size="8928x6796"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/mcgill-library-2g_9AOd1k4M-unsplash-thumbnail.jpg" alt="Sample Alt" width="768" height="585"></a>
+<figcaption>Sample Image description</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/036-p-2000.png" data-size="2000x1500"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/036-p-2000-thumbnail.png" alt="Sample Alt" width="768" height="576"></a>
+<figcaption>Sample Image description</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/977d5216190081.562ab7a8434c9.jpg" data-size="2800x3970"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/977d5216190081.562ab7a8434c9-thumbnail.jpg" alt="Sample Alt" width="768" height="1089"></a>
+<figcaption>Sample Image description</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/icons-bakery.png" data-size="2800x2220"><img loading="lazy" src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/gallery/icons-bakery-thumbnail.png" alt="Sample Alt" width="768" height="609"></a>
+<figcaption>Sample Image description</figcaption>
+</figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Giornate Nazionali ABIO</title>
-        <author>
-            <name>ABIO Pesaro</name>
-        </author>
-        <link href="https://abiopesaro.github.io/archivio-fotografico/giornate-nazionali-abio/"/>
-        <id>https://abiopesaro.github.io/archivio-fotografico/giornate-nazionali-abio/</id>
-
-        <updated>2021-10-08T17:00:02+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://abiopesaro.github.io/archivio-fotografico/media/posts/39/Progetto-senza-titolo-12.png" alt="" />
-                    Le Giornate Nazionali di ABIO dal 2001 ad oggi: foto, locandine, materiali vari in fase di&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://abiopesaro.github.io/archivio-fotografico/media/posts/39/Progetto-senza-titolo-12.png" alt="" />
-                <p><strong>Le Giornate Nazionali di ABIO dal 2001 ad oggi: foto, locandine, materiali vari</strong></p>
-<ul style="list-style-type: circle;">
-<li>in fase di compilazione ...</li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-</ul>
             ]]>
         </content>
     </entry>
@@ -90,29 +65,25 @@
         <author>
             <name>ABIO Pesaro</name>
         </author>
-        <link href="https://abiopesaro.github.io/archivio-fotografico/locandine/"/>
-        <id>https://abiopesaro.github.io/archivio-fotografico/locandine/</id>
+        <link href="https://ABIOpesaro.github.io/archivio-fotografico/free-iphone-xr-mockup/"/>
+        <id>https://ABIOpesaro.github.io/archivio-fotografico/free-iphone-xr-mockup/</id>
+            <category term="Rassegna Stampa"/>
 
-        <updated>2021-10-08T17:00:18+02:00</updated>
+        <updated>2021-10-09T22:52:51+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://abiopesaro.github.io/archivio-fotografico/media/posts/37/Progetto-senza-titolo-11.png" alt="" />
-                    Eventi e Progetti in divenire in fase di compilazione ... 
+                        <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/86/03_eventi-e-progetti.png" alt="Eventi e progetti" />
+                    Eventi e progetti passati e futuri Per saperne di più
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://abiopesaro.github.io/archivio-fotografico/media/posts/37/Progetto-senza-titolo-11.png" alt="" />
-                <p><strong>Eventi e Progetti in divenire</strong></p>
+                    <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/86/03_eventi-e-progetti.png" alt="Eventi e progetti" />
+                <p><strong>Eventi e progetti passati e futuri</strong></p>
 <ul style="list-style-type: circle;">
-<li>in fase di compilazione ...</li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
+<li>sezione in fase di compilazione</li>
 </ul>
+<p><a href="https://www.abio.org" target="_blank" rel="nofollow noopener noreferrer" class="btn">Per saperne di più</a></p>
             ]]>
         </content>
     </entry>
@@ -121,29 +92,49 @@
         <author>
             <name>ABIO Pesaro</name>
         </author>
-        <link href="https://abiopesaro.github.io/archivio-fotografico/documenti/"/>
-        <id>https://abiopesaro.github.io/archivio-fotografico/documenti/</id>
+        <link href="https://ABIOpesaro.github.io/archivio-fotografico/free-doubs-pattern/"/>
+        <id>https://ABIOpesaro.github.io/archivio-fotografico/free-doubs-pattern/</id>
+            <category term="Documenti"/>
 
-        <updated>2021-10-08T17:00:36+02:00</updated>
+        <updated>2021-10-09T22:53:20+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://abiopesaro.github.io/archivio-fotografico/media/posts/36/Progetto-senza-titolo-9.png" alt="" />
-                    Elenco note informative ABIO Pesaro in fase di compilazione ... 
+                        <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/85/04_note_informative.png" alt="Note Informative" />
+                    Elenco note informative ABIO Pesaro Per saperne di più
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://abiopesaro.github.io/archivio-fotografico/media/posts/36/Progetto-senza-titolo-9.png" alt="" />
+                    <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/85/04_note_informative.png" alt="Note Informative" />
                 <p><strong>Elenco note informative ABIO Pesaro</strong></p>
+<p><a href="https://www.abiopesaro.org" target="_blank" rel="nofollow noopener noreferrer" class="btn">Per saperne di più</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Giornate Nazionali</title>
+        <author>
+            <name>ABIO Pesaro</name>
+        </author>
+        <link href="https://ABIOpesaro.github.io/archivio-fotografico/apple-imac-mockups/"/>
+        <id>https://ABIOpesaro.github.io/archivio-fotografico/apple-imac-mockups/</id>
+            <category term="Rassegna Stampa"/>
+
+        <updated>2021-10-09T22:51:58+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/87/02_giornate_nazionali.png" alt="Apple iMac Mockups" />
+                    Le Giornate Nazionali di ABIO dal 2001 ad oggi: foto, locandine, materiale vari. Per saperne di più
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/87/02_giornate_nazionali.png" alt="Apple iMac Mockups" />
+                <p><strong>Le Giornate Nazionali di ABIO dal 2001 ad oggi: foto, locandine, materiale vari.</strong></p>
 <ul style="list-style-type: circle;">
-<li>in fase di compilazione ...</li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
-<li> </li>
+<li>sezione in fase di compilazione</li>
 </ul>
+<p><a href="https:www.abio.org" target="_blank" rel="nofollow noopener noreferrer" class="btn">Per saperne di più</a></p>
             ]]>
         </content>
     </entry>
