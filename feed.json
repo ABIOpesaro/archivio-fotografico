@@ -24,7 +24,7 @@
                    "Foto"
             ],
             "date_published": "2020-06-18T16:54:25+02:00",
-            "date_modified": "2021-10-09T23:55:57+02:00"
+            "date_modified": "2021-10-10T00:30:07+02:00"
         },
         {
             "id": "https://ABIOpesaro.github.io/archivio-fotografico/free-iphone-xr-mockup/",
@@ -40,14 +40,14 @@
                    "Rassegna Stampa"
             ],
             "date_published": "2020-06-16T13:09:00+02:00",
-            "date_modified": "2021-10-09T22:52:51+02:00"
+            "date_modified": "2021-10-10T00:29:57+02:00"
         },
         {
             "id": "https://ABIOpesaro.github.io/archivio-fotografico/free-doubs-pattern/",
             "url": "https://ABIOpesaro.github.io/archivio-fotografico/free-doubs-pattern/",
             "title": "Note Informative",
-            "summary": "Elenco note informative ABIO Pesaro Per saperne di più",
-            "content_html": "<p><strong>Elenco note informative ABIO Pesaro</strong></p>\n<p><a href=\"https://www.abiopesaro.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn\">Per saperne di più</a></p>",
+            "summary": "Elenco note informative ABIO Pesaro Ulteriori informazioni su www.abio.org",
+            "content_html": "<p><strong>Elenco note informative ABIO Pesaro</strong></p>\n<ul style=\"list-style-type: circle;\">\n<li><a href=\"https://www.abiopesaro.org/wp-content/uploads/2021/10/Informativa-sostenitore-.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Informativa per il trattamento dei dati personali dei sostenitori diretti di ABIO </a></li>\n<li><a href=\"https://www.abiopesaro.org/wp-content/uploads/2021/10/Modello-di-informativa-per-aspiranti-volontariSito-1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Informativa per il trattamento dei dati personali degli aspiranti volontari di ABIO </a></li>\n<li><a href=\"https://www.abiopesaro.org/wp-content/uploads/2021/09/Carta_dei_Diritti_ABIO_SIP.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Carta dei diritti dei bambini e degli adolescenti in ospedale</a></li>\n<li><a href=\"https://www.abiopesaro.org/wp-content/uploads/2021/09/statuto_def.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">STATUTO ASSOCIAZIONE ABIO PESARO </a></li>\n<li><a href=\"https://www.abiopesaro.org/wp-content/uploads/2021/09/Cookie_Policy_Sito_Abio.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Cookie Policy ABIO Pesaro</a></li>\n</ul>\n<p><a href=\"https://www.abiopesaro.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn\">Ulteriori informazioni su www.abio.org</a></p>",
             "image": "https://ABIOpesaro.github.io/archivio-fotografico/media/posts/85/04_note_informative.png",
             "author": {
                 "name": "ABIO Pesaro"
@@ -56,7 +56,7 @@
                    "Documenti"
             ],
             "date_published": "2020-06-09T12:07:00+02:00",
-            "date_modified": "2021-10-09T22:53:20+02:00"
+            "date_modified": "2021-10-10T00:29:47+02:00"
         },
         {
             "id": "https://ABIOpesaro.github.io/archivio-fotografico/apple-imac-mockups/",
@@ -72,7 +72,7 @@
                    "Rassegna Stampa"
             ],
             "date_published": "2018-06-16T18:05:00+02:00",
-            "date_modified": "2021-10-09T22:51:58+02:00"
+            "date_modified": "2021-10-10T00:30:02+02:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>ABIO Pesaro</title>
     <link href="https://ABIOpesaro.github.io/archivio-fotografico/feed.xml" rel="self" />
     <link href="https://ABIOpesaro.github.io/archivio-fotografico" />
-    <updated>2021-10-09T23:55:57+02:00</updated>
+    <updated>2021-10-10T00:30:07+02:00</updated>
     <author>
         <name>ABIO Pesaro</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://ABIOpesaro.github.io/archivio-fotografico/gallery/</id>
             <category term="Foto"/>
 
-        <updated>2021-10-09T23:55:57+02:00</updated>
+        <updated>2021-10-10T00:30:07+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/01_galleria_fotografica.png" alt="galleria fotografica" />
@@ -64,7 +64,7 @@
         <id>https://ABIOpesaro.github.io/archivio-fotografico/free-iphone-xr-mockup/</id>
             <category term="Rassegna Stampa"/>
 
-        <updated>2021-10-09T22:52:51+02:00</updated>
+        <updated>2021-10-10T00:29:57+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/86/03_eventi-e-progetti.png" alt="Eventi e progetti" />
@@ -91,18 +91,25 @@
         <id>https://ABIOpesaro.github.io/archivio-fotografico/free-doubs-pattern/</id>
             <category term="Documenti"/>
 
-        <updated>2021-10-09T22:53:20+02:00</updated>
+        <updated>2021-10-10T00:29:47+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/85/04_note_informative.png" alt="Note Informative" />
-                    Elenco note informative ABIO Pesaro Per saperne di più
+                    Elenco note informative ABIO Pesaro Ulteriori informazioni su www.abio.org
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/85/04_note_informative.png" alt="Note Informative" />
                 <p><strong>Elenco note informative ABIO Pesaro</strong></p>
-<p><a href="https://www.abiopesaro.org" target="_blank" rel="nofollow noopener noreferrer" class="btn">Per saperne di più</a></p>
+<ul style="list-style-type: circle;">
+<li><a href="https://www.abiopesaro.org/wp-content/uploads/2021/10/Informativa-sostenitore-.pdf" target="_blank" rel="noopener noreferrer">Informativa per il trattamento dei dati personali dei sostenitori diretti di ABIO </a></li>
+<li><a href="https://www.abiopesaro.org/wp-content/uploads/2021/10/Modello-di-informativa-per-aspiranti-volontariSito-1.pdf" target="_blank" rel="noopener noreferrer">Informativa per il trattamento dei dati personali degli aspiranti volontari di ABIO </a></li>
+<li><a href="https://www.abiopesaro.org/wp-content/uploads/2021/09/Carta_dei_Diritti_ABIO_SIP.pdf" target="_blank" rel="noopener noreferrer">Carta dei diritti dei bambini e degli adolescenti in ospedale</a></li>
+<li><a href="https://www.abiopesaro.org/wp-content/uploads/2021/09/statuto_def.pdf" target="_blank" rel="noopener noreferrer">STATUTO ASSOCIAZIONE ABIO PESARO </a></li>
+<li><a href="https://www.abiopesaro.org/wp-content/uploads/2021/09/Cookie_Policy_Sito_Abio.pdf" target="_blank" rel="noopener noreferrer">Cookie Policy ABIO Pesaro</a></li>
+</ul>
+<p><a href="https://www.abiopesaro.org" target="_blank" rel="nofollow noopener noreferrer" class="btn">Ulteriori informazioni su www.abio.org</a></p>
             ]]>
         </content>
     </entry>
@@ -115,7 +122,7 @@
         <id>https://ABIOpesaro.github.io/archivio-fotografico/apple-imac-mockups/</id>
             <category term="Rassegna Stampa"/>
 
-        <updated>2021-10-09T22:51:58+02:00</updated>
+        <updated>2021-10-10T00:30:02+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/87/02_giornate_nazionali.png" alt="Apple iMac Mockups" />
