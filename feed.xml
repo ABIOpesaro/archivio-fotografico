@@ -3,7 +3,7 @@
     <title>ABIO Pesaro</title>
     <link href="https://ABIOpesaro.github.io/archivio-fotografico/feed.xml" rel="self" />
     <link href="https://ABIOpesaro.github.io/archivio-fotografico" />
-    <updated>2021-10-10T18:33:39+02:00</updated>
+    <updated>2021-10-10T20:38:25+02:00</updated>
     <author>
         <name>ABIO Pesaro</name>
     </author>
@@ -14,11 +14,11 @@
         <author>
             <name>ABIO Pesaro</name>
         </author>
-        <link href="https://ABIOpesaro.github.io/archivio-fotografico/gallery/"/>
-        <id>https://ABIOpesaro.github.io/archivio-fotografico/gallery/</id>
+        <link href="https://ABIOpesaro.github.io/archivio-fotografico/galleria-fotografica/"/>
+        <id>https://ABIOpesaro.github.io/archivio-fotografico/galleria-fotografica/</id>
             <category term="Foto"/>
 
-        <updated>2021-10-10T18:33:23+02:00</updated>
+        <updated>2021-10-10T20:38:25+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/89/01_galleria_fotografica.png" alt="galleria fotografica" />
@@ -60,11 +60,11 @@
         <author>
             <name>ABIO Pesaro</name>
         </author>
-        <link href="https://ABIOpesaro.github.io/archivio-fotografico/free-iphone-xr-mockup/"/>
-        <id>https://ABIOpesaro.github.io/archivio-fotografico/free-iphone-xr-mockup/</id>
+        <link href="https://ABIOpesaro.github.io/archivio-fotografico/eventi-e-progetti/"/>
+        <id>https://ABIOpesaro.github.io/archivio-fotografico/eventi-e-progetti/</id>
             <category term="Rassegna Stampa"/>
 
-        <updated>2021-10-10T18:33:29+02:00</updated>
+        <updated>2021-10-10T20:37:25+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/86/03_eventi-e-progetti.png" alt="Eventi e progetti" />
@@ -87,11 +87,11 @@
         <author>
             <name>ABIO Pesaro</name>
         </author>
-        <link href="https://ABIOpesaro.github.io/archivio-fotografico/free-doubs-pattern/"/>
-        <id>https://ABIOpesaro.github.io/archivio-fotografico/free-doubs-pattern/</id>
+        <link href="https://ABIOpesaro.github.io/archivio-fotografico/note-informative/"/>
+        <id>https://ABIOpesaro.github.io/archivio-fotografico/note-informative/</id>
             <category term="Documenti"/>
 
-        <updated>2021-10-10T18:33:39+02:00</updated>
+        <updated>2021-10-10T20:37:58+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/85/04_note_informative.png" alt="Note Informative" />
@@ -118,11 +118,11 @@
         <author>
             <name>ABIO Pesaro</name>
         </author>
-        <link href="https://ABIOpesaro.github.io/archivio-fotografico/apple-imac-mockups/"/>
-        <id>https://ABIOpesaro.github.io/archivio-fotografico/apple-imac-mockups/</id>
+        <link href="https://ABIOpesaro.github.io/archivio-fotografico/giornate-nazionali-abio/"/>
+        <id>https://ABIOpesaro.github.io/archivio-fotografico/giornate-nazionali-abio/</id>
             <category term="Rassegna Stampa"/>
 
-        <updated>2021-10-10T18:33:02+02:00</updated>
+        <updated>2021-10-10T20:37:45+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/87/02_giornate_nazionali.png" alt="Apple iMac Mockups" />
