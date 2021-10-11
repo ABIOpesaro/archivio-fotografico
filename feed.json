@@ -30,8 +30,8 @@
             "id": "https://ABIOpesaro.github.io/archivio-fotografico/eventi-e-progetti/",
             "url": "https://ABIOpesaro.github.io/archivio-fotografico/eventi-e-progetti/",
             "title": "Eventi e Progetti",
-            "summary": "Eventi e progetti passati e passati Per saperne di più",
-            "content_html": "<p><strong>Eventi e progetti passati e passati</strong></p>\n<ul style=\"list-style-type: circle;\">\n<li>sezione in fase di compilazione</li>\n</ul>\n<p><a href=\"https://www.abio.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn\">Per saperne di più</a></p>",
+            "summary": "Eventi e progetti passati e futuri Per saperne di più",
+            "content_html": "<p><strong>Eventi e progetti passati e futuri</strong></p>\n<ul style=\"list-style-type: circle;\">\n<li>sezione in fase di compilazione</li>\n</ul>\n<p><a href=\"https://www.abio.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn\">Per saperne di più</a></p>",
             "image": "https://ABIOpesaro.github.io/archivio-fotografico/media/posts/86/03_eventi-e-progetti.png",
             "author": {
                 "name": "ABIO Pesaro"
@@ -40,7 +40,7 @@
                    "Rassegna Stampa"
             ],
             "date_published": "2020-06-16T13:09:00+02:00",
-            "date_modified": "2021-10-11T11:46:57+02:00"
+            "date_modified": "2021-10-11T15:13:11+02:00"
         },
         {
             "id": "https://ABIOpesaro.github.io/archivio-fotografico/note-informative/",
