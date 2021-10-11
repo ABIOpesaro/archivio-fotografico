@@ -3,7 +3,7 @@
     <title>ABIO Pesaro</title>
     <link href="https://ABIOpesaro.github.io/archivio-fotografico/feed.xml" rel="self" />
     <link href="https://ABIOpesaro.github.io/archivio-fotografico" />
-    <updated>2021-10-11T11:32:06+02:00</updated>
+    <updated>2021-10-11T11:46:57+02:00</updated>
     <author>
         <name>ABIO Pesaro</name>
     </author>
@@ -64,17 +64,17 @@
         <id>https://ABIOpesaro.github.io/archivio-fotografico/eventi-e-progetti/</id>
             <category term="Rassegna Stampa"/>
 
-        <updated>2021-10-11T11:32:06+02:00</updated>
+        <updated>2021-10-11T11:46:57+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/86/03_eventi-e-progetti.png" alt="Eventi e progetti" />
-                    Eventi e progetti passati e futuri e presenti! Per saperne di più
+                    Eventi e progetti passati e passati Per saperne di più
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://ABIOpesaro.github.io/archivio-fotografico/media/posts/86/03_eventi-e-progetti.png" alt="Eventi e progetti" />
-                <p><strong>Eventi e progetti passati e futuri e presenti!</strong></p>
+                <p><strong>Eventi e progetti passati e passati</strong></p>
 <ul style="list-style-type: circle;">
 <li>sezione in fase di compilazione</li>
 </ul>
