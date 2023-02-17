@@ -30,8 +30,8 @@
             "id": "https://abiopesaro.github.io/archivio-fotografico/eventi-e-progetti/",
             "url": "https://abiopesaro.github.io/archivio-fotografico/eventi-e-progetti/",
             "title": "Eventi e Progetti",
-            "summary": "Eventi e progetti Per saperne di più",
-            "content_html": "<p><strong>Eventi e progetti </strong></p>\n<ul style=\"list-style-type: circle;\">\n<li>\n<h3><strong>Il corso di formazione per aspiranti volontari inizierà nel prossimo mese di maggio.</strong></h3>\n<h3>Informazioni dettagliate saranno pubblicate in aprile.</h3>\n</li>\n</ul>\n<p><a href=\"https://www.abiopesaro.org/percorso-per-diventare-volontario/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Per saperne di più</a></p>",
+            "summary": "Eventi e progetti Il corso di formazione per aspiranti volontari inizierà nel prossimo mese di maggio. Informazioni dettagliate saranno pubblicate&hellip;",
+            "content_html": "<p><strong>Eventi e progetti </strong></p>\n<p><strong>Il corso di formazione per aspiranti volontari inizierà nel prossimo mese di maggio.</strong></p>\n<p>Informazioni dettagliate saranno pubblicate in aprile.</p>\n<p><a href=\"https://www.abiopesaro.org/percorso-per-diventare-volontario/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"btn\">Per saperne di più</a></p>",
             "image": "https://abiopesaro.github.io/archivio-fotografico/media/posts/86/03_eventi-e-progetti.png",
             "author": {
                 "name": "ABIO Pesaro"
@@ -40,7 +40,7 @@
                    "Rassegna Stampa"
             ],
             "date_published": "2020-06-16T13:09:00+02:00",
-            "date_modified": "2023-02-17T22:16:37+01:00"
+            "date_modified": "2023-02-17T22:29:01+01:00"
         },
         {
             "id": "https://abiopesaro.github.io/archivio-fotografico/note-informative/",
